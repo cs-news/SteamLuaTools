@@ -1,9 +1,10 @@
 -извеняюсь,приложение только на Русском языке
+
 -Sorry, the app is only in Russian.
-.
-.
-.
-.
+
+
+
+
 ## Russian / Русский
 ## And / И
 ## English / Английский
