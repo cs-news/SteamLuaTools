@@ -1,4 +1,6 @@
-Russian / Русский
+# Russian / Русский
+# And / И
+# English / Английский
 
 # SteamLuaTools v1.0
 
@@ -71,15 +73,11 @@ Russian / Русский
 ## 📝 Автор
 
 RodekPlay Teams - стараемся делать полезное и хорошее
-
-
-
-
 P.S -В Файле .zip находятся файлики которые надо заменить в кореной папке Steam,если хотите замените сами,а .exe это уже сама программа,всем приятной игры!
 
 
 
-English / Английский
+# English / Английский
 
 # SteamLuaTools v1.0
 
@@ -152,6 +150,4 @@ The program also supports installing additional files:
 ## 📝 Description
 
 RodekPlay Teams - always doing something useful and good!
-
-
 P.S - The .zip file contains files that need to be replaced in the Steam root folder. If you want to replace them yourself, the .exe file is the program itself. Enjoy the game!
