@@ -1,6 +1,7 @@
-# Russian / Русский
-# And / И
-# English / Английский
+## Russian / Русский
+## And / И
+## English / Английский
+
 
 # SteamLuaTools v1.0
 
@@ -77,7 +78,7 @@ P.S -В Файле .zip находятся файлики которые над�
 
 
 
-# English / Английский
+## English / Английский
 
 # SteamLuaTools v1.0
 
