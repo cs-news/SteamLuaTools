@@ -27,3 +27,5 @@ SteamLuaTools — программа для автоматической уст�
 Требования:
 Windows 10 / Windows 11
 Установленный Steam
+<img width="326" height="279" alt="image" src="https://github.com/user-attachments/assets/795e3683-c9e7-4f54-b8b0-6997895aff9a" />
+
