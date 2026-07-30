@@ -14,7 +14,7 @@
 
 ## 📌 О программе
 
-**SteamLuaTools** — программа для автоматической установки и управления **OpenSteamTools**.
+**SteamLuaTools** — программа для автоматической установки и управления **OpenSteamTools**,при помощи которой можно выдавать и играть в любые платные игры без **подключение к серверам**.
 
 Программа создана для замены нерабочей версии SteamTools. Она автоматически устанавливает необходимые файлы в папку Steam, заменяет 3 DLL-файла и создаёт папку:
 
@@ -91,7 +91,7 @@ P.S -В Файле .zip находятся файлики которые над�
 
 ## 📌 About
 
-**SteamLuaTools** is a program for automatic installation and management of **OpenSteamTools**.
+**SteamLuaTools** is a program for automatic installation and management of **OpenSteamTools**,with the help of which you can issue and play any paid games without **connecting to servers**.
 
 The program was created to replace the non-working version of SteamTools. It automatically installs the required files into the Steam folder, replaces 3 DLL files, and creates the folder:
 
